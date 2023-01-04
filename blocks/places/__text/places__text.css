@@ -1,4 +1,4 @@
-.place__text {
+.places__text {
     font-size: 18px;
     font-weight: 400;
     line-height: 29px;
@@ -11,17 +11,17 @@
 }
 
 @media (max-width: 768px) {
-    .place__text {
+    .places__text {
         font-size: 16px;
     }
 }
 
-.place__text:nth-child(1) {
+.places__text:nth-child(1) {
     margin-bottom: 26px;
 }
 
 @media (max-width:646px) {
-    .place__text:nth-child(1) {
+    .places__text:nth-child(1) {
         margin-bottom: 25px;
     }
 }

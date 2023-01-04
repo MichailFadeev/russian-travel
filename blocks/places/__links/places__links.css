@@ -1,4 +1,4 @@
-.place__links {
+.places__links {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -8,7 +8,7 @@
 }
 
 @media (max-width:646px) {
-    .place__links {
+    .places__links {
         margin: 32px 0 32px 0;
     }
 }
