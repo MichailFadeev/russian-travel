@@ -1,0 +1,13 @@
+.place__foto {
+    max-width: 460px;
+    max-height: 460px;
+    width: 100%;
+    object-fit: cover;
+}
+
+@media (max-width:646px) {
+    .place__foto {
+        display: block;
+        margin: 0 auto 32px;
+    }
+}
