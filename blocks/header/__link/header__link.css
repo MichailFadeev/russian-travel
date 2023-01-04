@@ -1,4 +1,4 @@
-.languege_link {
+.header__link {
     margin-right: 18px;
     font-family: Inter;
     font-size: 24px;
@@ -9,12 +9,12 @@
 }
 
 @media (max-width: 320px) {
-    .languege_ink {
+    .header__link {
         font-size: 18px;
         line-height: 20px;
     }
 }
 
-.languege_link:last-child {
+.header__link:last-child {
     margin-right: 0;
 }
