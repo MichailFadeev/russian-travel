@@ -36,7 +36,7 @@
 @media (max-width: 320px) {
     .places__title {
         font-size: 32px;
-        text-align: center;
+        text-align: left;
         line-height: 35px;
         
     }
