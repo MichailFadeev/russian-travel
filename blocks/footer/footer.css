@@ -20,7 +20,7 @@
 
 @media (max-width:540px) {
     .footer {
-        margin: 64px auto 48px;
+        margin: 64px auto 0;
         padding-left: 16px;
     }
 }

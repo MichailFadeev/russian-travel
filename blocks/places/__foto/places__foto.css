@@ -5,7 +5,7 @@
     object-fit: cover;
 }
 
-@media (max-width:646px) {
+@media (max-width:651px) {
     .places__foto {
         display: block;
         margin: 0 auto 32px;

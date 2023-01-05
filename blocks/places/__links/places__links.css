@@ -7,8 +7,15 @@
 
 }
 
-@media (max-width:646px) {
+@media (max-width:651px) {
     .places__links {
         margin: 32px 0 32px 0;
+
+    }
+}
+
+@media (max-width:320px) {
+    .places__links {
+        padding: 0 16px 0;
     }
 }

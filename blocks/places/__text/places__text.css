@@ -20,8 +20,14 @@
     margin-bottom: 26px;
 }
 
-@media (max-width:646px) {
+@media (max-width:651px) {
     .places__text:nth-child(1) {
         margin-bottom: 25px;
+    }
+}
+
+@media (max-width:320px) {
+    .places__text {
+        padding: 0 16px 0;
     }
 }
