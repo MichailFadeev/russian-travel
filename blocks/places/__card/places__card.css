@@ -11,7 +11,7 @@
     padding: 0;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1029px) {
     .places__card {
         max-width: 928px;
 
@@ -20,6 +20,8 @@
 
     }
 }
+
+
 
 @media (max-width: 768px) {
     .places__card {
