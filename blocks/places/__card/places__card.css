@@ -11,7 +11,7 @@ box-sizing: border-box;
     padding: 0;
 }
 
-@media (max-width: 1029px) {
+@media (max-width: 1050px) {
     .places__card {
         max-width: 928px;
 
@@ -23,7 +23,7 @@ box-sizing: border-box;
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 790px) {
     .places__card {
         max-width: 720px;
         grid-template-columns: minmax(288px, 340px) minmax(288px, 352px);

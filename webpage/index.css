@@ -2,6 +2,7 @@
 @import url(../fonts/inter-black.css);
 @import url(../fonts/inter-bold.css);
 @import url(../fonts/inter-regular.css);
+@import url(../blocks/background/background.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__languege/header__languege.css);
