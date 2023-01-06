@@ -7,7 +7,7 @@
     margin-bottom: 80px;
     column-gap: 40px;
     row-gap: 48px;
-
+box-sizing: border-box;
     padding: 0;
 }
 
