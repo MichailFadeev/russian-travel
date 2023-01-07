@@ -53,8 +53,7 @@
 @media (max-width: 350px) {
     .lead__title {
         margin: 48px auto 16px;
-        font-size: 40px;
-        line-height: 44px;
+
         padding: 0 16px 0 16px;
     }
 }

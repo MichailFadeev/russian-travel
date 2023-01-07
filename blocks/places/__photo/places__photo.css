@@ -1,4 +1,4 @@
-.places__foto {
+.places__photo {
     max-width: 460px;
     max-height: 460px;
     width: 100%;
@@ -7,7 +7,7 @@
 }
 
 @media (max-width:651px) {
-    .places__foto {
+    .places__photo {
         display: block;
         margin: 0 auto 32px;
     }

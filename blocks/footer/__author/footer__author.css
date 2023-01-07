@@ -20,15 +20,15 @@
 @media (max-width:540px) {
     .footer__author {
         text-align: left;
-        
+
     }
 }
 
 @media (max-width:320px) {
     .footer__author {
-        
-    
-    line-height: 14px;
-        
+
+
+        line-height: 14px;
+
     }
 }
