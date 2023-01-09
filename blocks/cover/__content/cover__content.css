@@ -30,3 +30,26 @@ z-index: 0;
 .cover__content:hover {
     background: rgba(42, 44 , 47 , .8);
 }
+
+@media (max-width: 1024px) {
+    .cover__content {
+        max-width: 1024px;
+        min-height: 640px;
+    }
+}
+
+@media (max-width:768px) {
+    .cover__content {
+        
+        max-width: 100%;
+        min-height: 480px;
+    }
+}
+
+
+@media (max-width:320px) {
+    .cover__content {
+        max-width: 320px;
+        min-height: 200px;
+    }
+}

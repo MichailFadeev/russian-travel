@@ -1,5 +1,6 @@
 .footer__links {
     margin-left: 18px;
+    list-style: none;
 }
 
 .footer__links:first-child {
